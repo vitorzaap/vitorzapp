@@ -20,7 +20,7 @@
   <h1>Links p/ contato: </h1>
   <a href="https://instagram.com/vitorzapp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23937BF7?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:menezes.victorsantos@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-Icloud-white?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a> 
+  <a href="mailto:victor.menezes23@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-Icloud-white?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a> 
 </div>
   
   <br>
