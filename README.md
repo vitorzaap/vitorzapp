@@ -1,4 +1,4 @@
-## Eae, beleza? eu sou o Victor e pretendo me tornar um grande programador full-stack!
+## Prazer, me chamo Victor, bem vindo ao meu perfil! 
 
 <div align="center">
   <a href="https://github.com/vitorsx">
