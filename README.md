@@ -7,7 +7,7 @@
 </div>
   
  <div style="display: inline-block">
-  <h1>Linguagens que estudo altualmente: </h1>
+  <h1>O que eu ando estudando </h1>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,7 +19,7 @@
   <br>
   
   <div>
-  <h1>Links p/ contato: </h1>
+  <h1>Fale comigo: </h1>
   <a href="https://instagram.com/vitorzapp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23937BF7?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:menezes.victorsantos@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
   <a href="mailto:victor.menezes23@icloud.com" target="_blank"><img src="https://img.shields.io/badge/-Icloud-white?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a> 
