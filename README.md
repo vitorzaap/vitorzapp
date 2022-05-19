@@ -1,4 +1,4 @@
-## Prazer, me chamo Victor, bem vindo ao meu perfil! 
+##bem vindo ao meu perfil! 
 
 <div align="center">
   <a href="https://github.com/vitorsx">
@@ -28,6 +28,6 @@
   <br>
   
   <div align="left">
-    <h2>Bye!👋</h2>
-    <img src="https://media0.giphy.com/media/tPzuDa62ovAI/giphy.gif?cid=ecf05e47r3vt6rdaxfcaymdrrel2jv6zhdujvrhmhnpnq5tb&rid=giphy.gif&ct=g" align="center" width="500em"/>
+    <h1>Bye!👋</h1>
+    
   </div>
