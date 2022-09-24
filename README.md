@@ -1,7 +1,7 @@
 <h1>Bem-vindo ao meu perfil!</h1> 
 
 <div align="center">
-  <a href="https://github.com/vitorsx">
+  <a href="https://github.com/vitorzapp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsx&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsx&layout=compact&langs_count=7&theme=react"/>
 </div>
